@@ -10,6 +10,8 @@ body {
 
 .container {
     text-align: center;
+    container: center;
+
 }
 
 textarea {
@@ -22,8 +24,7 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    color: green;
-}
+    color: red;
 
 #stopBtn {
     background-color: #ff4d4d;
